@@ -18,6 +18,8 @@ input. Untuk mencari bilangan terbesar dari banyaknya bilangan
 menggunakan fungsi max.
 Berikut hasilnya :
 
+![4 bilangan terbesar n buah bilangan](https://user-images.githubusercontent.com/45660967/53215045-86195900-3681-11e9-9ea9-0964d206a4a3.png)
+
 
 Penjelasan program1 
 1. Modal awal pengusaha sebesar 100000000
