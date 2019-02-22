@@ -7,7 +7,7 @@ angka dibawah 0.5 secara acak. Fungsi random sudah otomatis ditampilkan.
 3. Ketika anda sudah memberikan input nilai, maka akan langsung muncul 
 data nilai random.
 Berikut hasilnya :
-
+![1](https://user-images.githubusercontent.com/45660967/53214993-47839e80-3681-11e9-8206-350952db4110.jpg)
 
 Penjelasan latihan2
 1. Masukkan bilangan
