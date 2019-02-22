@@ -31,3 +31,4 @@ yang telah dihitung berdasarkan presentasenya.
 4. Terakhir akan ditampilkan jumlah laba secara keseluruhan yang didapat 
 dengan menggunakan sum.
 Berikut hasilnya :
+![5 laba](https://user-images.githubusercontent.com/45660967/53215105-bf51c900-3681-11e9-9cd7-55633d99a4f8.png)
